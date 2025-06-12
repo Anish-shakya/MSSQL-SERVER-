@@ -8,6 +8,7 @@ FROM Sales.Employees
 
 INTERSECT
 
+
 SELECT
 	FirstName
 	,LastName
