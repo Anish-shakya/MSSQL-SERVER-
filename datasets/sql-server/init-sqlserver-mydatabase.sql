@@ -25,6 +25,7 @@ BEGIN
 END;
 GO
 
+
 -- Create the 'MyDatabase' database
 CREATE DATABASE MyDatabase;
 GO
