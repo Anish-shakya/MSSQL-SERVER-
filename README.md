@@ -1,5 +1,4 @@
 ﻿# SQL Server Learning Journey 📚
-
 Welcome to my repository dedicated to exploring and mastering **SQL Server**! I have already covered the basics and some advanced topics, and this repo is my ongoing documentation as I dive deeper into the **intermediate** and **advanced** areas of the SQL Server platform.
 
 ## 🔍 Purpose of this Repository
